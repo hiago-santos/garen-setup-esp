@@ -81,3 +81,7 @@ python tools/tuyamcu_probe.py COM6 watch --baud 9600 --poll 1
 | Apagar todos os controles (DP 119: 1 → 6) | ✅ testado |
 | Firmware ESP32-C3 | Compila. A versão com edição, salvar e gravar controle foi testada só com um simulador da central, **não no ESP com a central** |
 | Distinguir "totalmente aberto" de "parado no meio" | ❌ a central não informa |
+
+## Licença
+
+[MIT](LICENSE), para o código e a documentação.
